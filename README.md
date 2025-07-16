@@ -27,6 +27,8 @@ It’s fully interactive with filters and slicers to drill into the data and mak
 - Dashboard Preview
 
 ![AdventureWorks ٍSales Dashboard](https://github.com/AhmedMostafa-30/AdventureWorks-Dashboard/blob/main/Overview.png)
+![AdventureWorks ٍSales Dashboard](https://github.com/AhmedMostafa-30/AdventureWorks-Dashboard/blob/main/Customer.png)
+![AdventureWorks ٍSales Dashboard](https://github.com/AhmedMostafa-30/AdventureWorks-Dashboard/blob/main/OrdersSales.png)
 
 ---
 
